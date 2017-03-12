@@ -1,0 +1,19 @@
+{
+  "name": "simple_rgb_led",
+  "version": "1.0.0",
+  "description": "promise wrapper for johnny-five Led.RGB",
+  "main": "SimpleRGBLed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisSensebe/simpleRGBLed.git"
+  },
+  "author": "ChrisSensebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisSensebe/simpleRGBLed/issues"
+  },
+  "homepage": "https://github.com/ChrisSensebe/simpleRGBLed#readme"
+}
