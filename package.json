@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChrisSensebe/simpleRGBLed/issues"
   },
-  "homepage": "https://github.com/ChrisSensebe/simpleRGBLed#readme"
+  "homepage": "https://github.com/ChrisSensebe/simpleRGBLed#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.6"
+  }
 }
